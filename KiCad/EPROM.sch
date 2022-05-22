@@ -845,9 +845,9 @@ Connection ~ 6100 3450
 Wire Wire Line
 	6100 3450 6100 1550
 Text Notes 9300 3100 0    50   ~ 0
-Pin 1 (VPP) should be high for EEPROM\nbut is the A14 address line on \n32K byte RAM and FLASH. 
+Pin 1 (VPP) should be high for EPROM\nbut is the A14 address line on \n32K byte RAM and FLASH. 
 Text Notes 9300 3500 0    50   ~ 0
-Pin 27 (~PGM~) should be high for EEPROM\nbut is the A14 address line on 32K EEPROM\nand the ~WE~ on RAM and FLASH
+Pin 27 (~PGM~) should be high for EPROM\nbut is the A14 address line on 32K EPROM\nand the ~WE~ on RAM and FLASH
 Wire Wire Line
 	5000 5500 7150 5500
 Connection ~ 5000 5500
